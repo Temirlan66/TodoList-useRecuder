@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TodoList-useRecuder/static/css/main.3397cfd1.css",
+    "main.js": "/TodoList-useRecuder/static/js/main.4558280f.js",
+    "index.html": "/TodoList-useRecuder/index.html",
+    "main.3397cfd1.css.map": "/TodoList-useRecuder/static/css/main.3397cfd1.css.map",
+    "main.4558280f.js.map": "/TodoList-useRecuder/static/js/main.4558280f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3397cfd1.css",
+    "static/js/main.4558280f.js"
+  ]
+}
